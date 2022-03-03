@@ -24,3 +24,4 @@ Here, we use the behaviour of light on the black and white surface. The white co
   Hobby robot chassis      -1 
 
 ## Circuit
+![CIRCUIT](https://user-images.githubusercontent.com/59273583/156522386-7c2367a3-1673-4aeb-9b11-4084ca0af18b.png)
